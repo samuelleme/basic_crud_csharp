@@ -1,0 +1,14 @@
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\bin\Debug\net8.0\Accounts_Basic_Crud.exe
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\bin\Debug\net8.0\Accounts_Basic_Crud.deps.json
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\bin\Debug\net8.0\Accounts_Basic_Crud.runtimeconfig.json
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\bin\Debug\net8.0\Accounts_Basic_Crud.dll
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\bin\Debug\net8.0\Accounts_Basic_Crud.pdb
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\Accounts_Basic_Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\Accounts_Basic_Crud.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\Accounts_Basic_Crud.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\Accounts_Basic_Crud.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\Accounts_Basic_Crud.dll
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\refint\Accounts_Basic_Crud.dll
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\Accounts_Basic_Crud.pdb
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\Accounts_Basic_Crud.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\MEGAsync\Obsidian\DevLearning\Projects\Infnet\CSharp\Fundamentos de Des com CSharp\AT\Samuel_Leme_AT\Samuel_Leme_AT_4\obj\Debug\net8.0\ref\Accounts_Basic_Crud.dll
